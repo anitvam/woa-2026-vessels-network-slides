@@ -26,12 +26,16 @@ outputs = ["Reveal"]
 * Autonomous Maritime Operations
 * Support the transition towards autonomy by achieving *situational awareness*.
 
-{{% /col %}}
-{{% col class=""%}}
-
 ## GAP
 
 * Lack of a *communication infrastructure* to support the transmission of sensors data
+
+{{% /col %}}
+{{% col class="text-center m-0 p-0"%}}
+
+<img src="images/Locator-map-Kiel.webp" width=40% />
+<img src="images/fjord.png" width=80% />
+
 
 <br />
 <br />
